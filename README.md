@@ -2,7 +2,7 @@
 This is my codewar section, completing a codewar everyday to prepare myself for more complicating task. 
 
 
-**Tech used:** HTML, CSS, JavaScript, Express, OOP
+**Tech used:** HTML, CSS, JavaScript, Express, OOP.
 
 
 ## Lessons Learned:
