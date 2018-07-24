@@ -1,8 +1,9 @@
 # My Awesome Project
 This is my codewar section, completing a codewar everyday to prepare myself for more complicating task. 
 
+![codewarpic](https://user-images.githubusercontent.com/39627002/42537390-58f2e128-845a-11e8-836a-01eda8d0d30f.png)
 
-**Tech used:** HTML, CSS, JavaScript, Express, OOP
+**Tech used:** HTML, CSS, JavaScript, Express, OOP.
 
 
 ## Lessons Learned:
